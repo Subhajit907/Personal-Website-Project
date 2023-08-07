@@ -1,0 +1,13 @@
+.ul{
+    color: aqua;
+    background-color: aqua;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 23.33%;
+    padding: 5px;
+  }
